@@ -1,17 +1,6 @@
-<p align="center">
-  <img src="assets/steam-authenticator-linux.webp" alt="Steam Authenticator for Linux">
-</p>
+# Steam Authenticator Linux
 
 <p align="center">
-  <a href="https://discord.gg/cs2central"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://cs2central.gg/"><img src="https://img.shields.io/badge/Website-CS2Central.gg-blue" alt="Website"></a>
-  <a href="https://github.com/cs2central/steam-authenticator-linux/releases"><img src="https://img.shields.io/github/v/release/cs2central/steam-authenticator-linux" alt="Release"></a>
-  <a href="https://github.com/cs2central/steam-authenticator-linux/blob/main/LICENSE"><img src="https://img.shields.io/github/license/cs2central/steam-authenticator-linux" alt="License"></a>
-</p>
-
-<p align="center">
-  <a href="https://cs2central.gg/">Website</a> •
-  <a href="https://discord.gg/cs2central">Discord</a> •
   <a href="#installation">Installation</a> •
   <a href="#features">Features</a>
 </p>
@@ -47,7 +36,7 @@ cd steam-authenticator-linux
 ./install.sh
 ```
 
-### Manual Installation
+### Manual Running
 
 <details>
 <summary><b>Debian / Ubuntu / Linux Mint</b></summary>
@@ -215,20 +204,9 @@ cd steam-authenticator-linux
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-- **Discord**: [discord.gg/cs2central](https://discord.gg/cs2central)
-- **Website**: [cs2central.gg](https://cs2central.gg/)
-- **Issues**: [GitHub Issues](https://github.com/cs2central/steam-authenticator-linux/issues)
-
 ## Credits
 
-- **zorex** - Lead Developer
-- [CS2Central](https://cs2central.gg/) - Community
+- **NastaL'GIST** - Developer  
+- **zorex** - Lead Developer (https://github.com/cs2central/steam-authenticator-linux)
 - Built with [GTK4](https://gtk.org/) and [libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/)
 
----
-
-<p align="center">
-  Made with ❤️ by zorex & <a href="https://cs2central.gg/">CS2Central</a>
-</p>
