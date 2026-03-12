@@ -169,7 +169,7 @@ Access via **Menu → Preferences → Appearance**
 
 ## Uninstalling
 
-### Quick Install / Manual Install
+### Manual nistall
 
 ```bash
 # Remove desktop entry and icons
@@ -185,7 +185,7 @@ rm -rf ~/.config/steam-authenticator
 rm -rf ~/.local/share/steam-authenticator
 ```
 
-## Building from Source
+## Quick Unistall
 
 ```bash
 git clone https://github.com/cs2central/steam-authenticator-linux.git
@@ -206,7 +206,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 
 ## Credits
 
-- **NastaL'GIST** - Developer  
+- **NastaL'GIST** - Main Developer (This Fork)
 - **zorex** - Lead Developer (https://github.com/cs2central/steam-authenticator-linux)
 - Built with [GTK4](https://gtk.org/) and [libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/)
 
